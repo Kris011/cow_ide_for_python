@@ -5,3 +5,4 @@ IDE para Python
 <h2>Ejecutalo en Terminal</h2>
 <li>python cow.py</hi>
 <p>y listo :3</p>
+<img src="https://github.com/Kris011/cow_ide_for_python/blob/main/py.png">
