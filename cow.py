@@ -1,3 +1,4 @@
+#EL CODIGO NO ES MIO
 from tkinter import *
 from tkinter import ttk
 from tkinter.filedialog import asksaveasfilename, askopenfilename
